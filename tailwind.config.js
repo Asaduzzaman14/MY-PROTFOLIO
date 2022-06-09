@@ -2,7 +2,7 @@ module.exports = {
   content: ["./src/**/*.{html,js}"],
   themes: [
     {
-      mytheme: {
+      light: {
         primary: "#c99132",
         secondary: "#c6d860",
         accent: "#a7cdbe",

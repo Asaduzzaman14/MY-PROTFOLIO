@@ -1,4 +1,3 @@
-
 import { Route, Routes } from 'react-router-dom';
 import About from './components/Pages/About';
 import Home from './components/Pages/Home';
@@ -6,7 +5,7 @@ import Navbar from './components/Pages/Navbar';
 
 function App() {
   return (
-    <div>
+    <div >
       <Navbar></Navbar>
 
       <Routes>
