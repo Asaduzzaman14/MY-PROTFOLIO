@@ -2,6 +2,7 @@ import React from 'react';
 import resume from '../../images/Md-Asaduzzaman-resume-(3).PDF'
 import { AiFillLinkedin } from 'react-icons/ai';
 import { BsGithub, BsFacebook } from 'react-icons/bs';
+import banner from '../../images/banner.png'
 
 
 const Banner = () => {
@@ -10,6 +11,8 @@ const Banner = () => {
 
             <div class="  rounded-2xl p-20 pr-10">
                 <div class="grid sm:grid-cols-1 lg:grid-cols-2 justify-center my-auto">
+
+                    <img src={banner} alt="" />
 
                     <div className='' data-aos="fade-right">
                         <h1 class="text-4xl mt-5 font-bold">Hi! I am <span>Asaduzzaman</span></h1>

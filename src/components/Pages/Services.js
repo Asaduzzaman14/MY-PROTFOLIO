@@ -10,9 +10,8 @@ const Services = () => {
             <div className='text-center'>
 
                 <h2 className='text-3xl mx-auto font-bold'>MY SERVICES</h2>
-                <p className='text-lg my-3'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Laboriosam tempora magni mollitia atque,
-                    <br />
-                    numquam quod consectetur veniam odio! Quas</p>
+
+                <h2 className='text-2xl text-red-600 font-semibold underline underline-offset-8 mt-2'>Whai i do</h2>
             </div>
 
             <div className='grid sm:grid-cols-1 lg:grid-cols-3 gap-5 mx-auto justify-items-center'>
