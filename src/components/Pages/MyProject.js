@@ -30,17 +30,17 @@ const MyProject = () => {
                                 </div>
                                 <ul class="sci ">
                                     <li>
-                                        <a href="">live</a>
+                                        <a href="https://manufacturer-website-50975.firebaseapp.com/">live</a>
                                     </li>
                                     <li>
-                                        <a href="">Client </a>
+                                        <a href="https://github.com/Asaduzzaman14/menufacture-house-client">Client </a>
                                     </li>
                                     <li>
-                                        <a href="">Server</a>
+                                        <a href="https://github.com/Asaduzzaman14/manufacturer-house-server">Server</a>
                                     </li>
 
                                     <li className='detail '>
-                                        <a className='' href="">Detail</a>
+                                        <a className='' href="/menufacture">Detail</a>
                                     </li>
 
                                 </ul>
@@ -57,16 +57,15 @@ const MyProject = () => {
                                 </div>
                                 <ul class="sci">
                                     <li>
-                                        <a href="">live</a>
+                                        <a href="https://warehouse-management-6236d.web.app/">live</a>
                                     </li>
                                     <li>
-                                        <a href="">Client</a>
+                                        <a href="https://github.com/Asaduzzaman14/warehouse-management-client">Client</a>
                                     </li>
                                     <li>
-                                        <a href="">Server</a>
+                                        <a href="https://github.com/Asaduzzaman14/warehouse-management-server">Server</a>
                                     </li>
                                     <li>
-                                        <a href="">Detail</a>
                                     </li>
                                 </ul>
                             </div>
@@ -82,10 +81,10 @@ const MyProject = () => {
                                 </div>
                                 <ul class="sci mt-1">
                                     <li>
-                                        <a href="">live</a>
+                                        <a href="https://dentist-web-997b3.web.app/">live</a>
                                     </li>
                                     <li>
-                                        <a href="">Client</a>
+                                        <a href="https://github.com/Asaduzzaman14/-independent-service-provider">Client</a>
                                     </li>
                                     <li>
                                         <a href="">Server</a>

@@ -1,5 +1,7 @@
 import React from 'react';
 import resume from '../../images/Md-Asaduzzaman-resume-(3).PDF'
+import { AiFillLinkedin } from 'react-icons/ai';
+import { BsGithub, BsFacebook } from 'react-icons/bs';
 
 
 const Banner = () => {
@@ -12,8 +14,17 @@ const Banner = () => {
                     <div className=''>
                         <h1 class="text-4xl mt-5 font-bold">Hi! I am <span>Asaduzzaman</span></h1>
                         <p class="py-6 text-xl">I AM A JUNIOR FRONT-END WEB DEVELOPER</p>
+
+
                         <div>
-                            <span></span>
+                            <ul>
+
+
+
+                                <a href="">  <AiFillLinkedin /> </a>
+                                <a href="https://github.com/Asaduzzaman14/">  <BsGithub /> </a>
+                                <a href=""><BsFacebook /></a>
+                            </ul>
                         </div>
 
                         <div className='flex  my-4 gap-5'>

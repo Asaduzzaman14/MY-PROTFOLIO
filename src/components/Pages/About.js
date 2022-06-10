@@ -18,8 +18,8 @@ const About = () => {
                     <p> dolor sit amet consectetur adipisicing elit. Dolores rem exercitationem nulla ab asperiores odit voluptatem ad distinctio, laudantium eaque, quod quia in numquam enim. Earum beatae sunt ratione perspiciatis.</p>
 
 
-                    <a href="_" class="mt-4 px-4 py-2.5 relative rounded group overflow-hidden font-medium bg-blue-100 text-primary-600 inline-block justify-center">
-                        <span class="absolute top-0 left-0 flex w-full h-0 mb-0 transition-all duration-500 ease-in-out transform translate-x-0 bg-secondary group-hover:h-full opacity-90"></span>
+                    <a href="_" class="mt-4 px-4 py-2.5 relative rounded group overflow-hidden font-medium bg-blue-200 text-black inline-block justify-center">
+                        <span class="absolute top-0 left-0 flex w-full h-0 mb-0 transition-all duration-500 ease-in-out transform translate-x-0 bg-[#e15c76] group-hover:h-full opacity-90"></span>
                         <span class=" relative group-hover:text-white"> ABOUT MORE</span>
                     </a>
                 </div>
