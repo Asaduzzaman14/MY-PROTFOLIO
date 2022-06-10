@@ -1,5 +1,8 @@
 import React from 'react';
 
+
+
+
 const About = () => {
     return (
         <div className='bg-gray-700 py-10' style={{ background: "#13152e" }}>
