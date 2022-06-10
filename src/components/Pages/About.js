@@ -2,16 +2,25 @@ import React from 'react';
 
 const About = () => {
     return (
-        <div className='my-8 bg-black/[.2] px-20 py-10 grid sm:grid-cols-1 lg:grid-cols-2 gap-5 justify-items-center'>
-
-            <div className='text-white'>
-                <h2 className='text-lg font-bold'>About Me</h2>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugiat ut porro velit ipsam sit. Repellat distinctio iure dolore veritatis rerum?</p>
-                <button className='my-4 btn btn-secondary'>SEE DETAIL</button>
+        <div className='bg-gray-700 py-10' style={{ background: "#13152e" }}>
+            <div className='text-red-600'>
+                <h2 className='text-2xl font-bold text-center text-red-600 underline underline-offset-8'>About Me</h2>
             </div>
 
-            <div>
-                <img className='w-60 rounded-lg' src="https://t3.ftcdn.net/jpg/02/92/67/14/240_F_292671442_rAmzDn1o4Muvjn5jr7KyhDaS2nqIdjNK.jpg" alt="" />
+            <div className='my-8 px-10 py-6 mx-auto w-8/12'>
+
+                <div className='text-white'>
+                    <h2 className='text-xl text-center my-2 font-semibold '>ABOUT ME AND MY SKILLS</h2>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolores rem exercitationem nulla ab asperiores odit voluptatem ad distinctio, laudantium eaque, quod quia in numquam enim. Earum beatae sunt ratione perspiciatis.</p>
+                    <p> dolor sit amet consectetur adipisicing elit. Dolores rem exercitationem nulla ab asperiores odit voluptatem ad distinctio, laudantium eaque, quod quia in numquam enim. Earum beatae sunt ratione perspiciatis.</p>
+
+
+                    <a href="_" class="mt-4 px-4 py-2.5 relative rounded group overflow-hidden font-medium bg-blue-100 text-primary-600 inline-block justify-center">
+                        <span class="absolute top-0 left-0 flex w-full h-0 mb-0 transition-all duration-500 ease-in-out transform translate-x-0 bg-secondary group-hover:h-full opacity-90"></span>
+                        <span class=" relative group-hover:text-white"> ABOUT MORE</span>
+                    </a>
+                </div>
+
             </div>
         </div>
     );

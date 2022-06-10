@@ -25,7 +25,11 @@ const Services = () => {
                         <h2 class="card-title">WEB DESIGNER</h2>
                         <p>Morbi risus elit, fringilla in cursus a, molestie non dui. Nunc accumsan gravida risus, ac semper libero mollis ut.</p>
                         <div class="card-actions">
-                            <button class="btn btn-primary">Work With Me</button>
+                            <a href="_" class="  px-4 py-2.5 relative rounded group overflow-hidden font-medium bg-blue-100 text-primary-600 inline-block justify-center">
+                                <span class="absolute top-0 left-0 flex w-full h-0 mb-0 transition-all duration-500 ease-in-out transform translate-x-0 bg-secondary group-hover:h-full opacity-90"></span>
+                                <span class=" relative group-hover:text-white">Work With Me</span>
+                            </a>
+
                         </div>
                     </div>
                 </div>
@@ -38,8 +42,10 @@ const Services = () => {
                         <h2 class="card-title">FRONT-END DEVELOPER</h2>
                         <p>Morbi risus elit, fringilla in cursus a, molestie non dui. Nunc accumsan gravida risus, ac semper libero mollis ut.</p>
                         <div class="card-actions">
-                            <button class="btn btn-primary">Work With Me</button>
-                        </div>
+                            <a href="_" class="  px-4 py-2.5 relative rounded group overflow-hidden font-medium bg-blue-100 text-primary-600 inline-block justify-center">
+                                <span class="absolute top-0 left-0 flex w-full h-0 mb-0 transition-all duration-500 ease-in-out transform translate-x-0 bg-secondary group-hover:h-full opacity-90"></span>
+                                <span class=" relative group-hover:text-white">Work With Me</span>
+                            </a>                        </div>
                     </div>
                 </div>
 
@@ -51,7 +57,10 @@ const Services = () => {
                         <h2 class="card-title">BCKEND-END DEVELOPER</h2>
                         <p>Morbi risus elit, fringilla in cursus a, molestie non dui. Nunc accumsan gravida risus, ac semper libero mollis ut.</p>
                         <div class="card-actions">
-                            <button class="btn btn-primary">Work With Me</button>
+                            <a href="_" class="  px-4 py-2.5 relative rounded group overflow-hidden font-medium bg-blue-100 text-primary-600 inline-block justify-center">
+                                <span class="absolute top-0 left-0 flex w-full h-0 mb-0 transition-all duration-500 ease-in-out transform translate-x-0 bg-secondary group-hover:h-full opacity-90"></span>
+                                <span class=" relative group-hover:text-white">Work With Me</span>
+                            </a>
                         </div>
                     </div>
                 </div>
