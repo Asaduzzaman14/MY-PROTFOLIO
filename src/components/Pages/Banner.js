@@ -11,9 +11,9 @@ const Banner = () => {
             <div class="  rounded-2xl p-10">
                 <div class="grid sm:grid-cols-1 lg:grid-cols-2 justify-center my-auto">
 
-                    <div className=''>
+                    <div className='' data-aos="fade-right">
                         <h1 class="text-4xl mt-5 font-bold">Hi! I am <span>Asaduzzaman</span></h1>
-                        <p class="py-6 text-xl">I AM A JUNIOR FRONT-END WEB DEVELOPER</p>
+                        <p data-aos="fade-right" class="py-6 text-xl">I AM A JUNIOR FRONT-END WEB DEVELOPER</p>
 
 
                         <div>

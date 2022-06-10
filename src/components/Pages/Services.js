@@ -21,7 +21,7 @@ const Services = () => {
                     <figure class="px-7 pt-7">
                         <img src={design} class="rounded-xl h-60" alt='' />
                     </figure>
-                    <div class="card-body items-center text-center">
+                    <div class="card-body items-center text-center" data-aos="fade-right">
                         <h2 class="card-title">WEB DESIGNER</h2>
                         <p>Morbi risus elit, fringilla in cursus a, molestie non dui. Nunc accumsan gravida risus, ac semper libero mollis ut.</p>
                         <div class="card-actions">

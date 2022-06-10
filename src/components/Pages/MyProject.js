@@ -46,7 +46,7 @@ const MyProject = () => {
                                 </ul>
                             </div>
 
-                            <div class="card">
+                            <div class="card" data-aos="fade-up">
                                 <div class="content">
                                     <div class="imgBx">
                                         <img src={project2} alt='' />
@@ -65,8 +65,10 @@ const MyProject = () => {
                                     <li>
                                         <a href="https://github.com/Asaduzzaman14/warehouse-management-server">Server</a>
                                     </li>
-                                    <li>
+                                    <li className='detail '>
+                                        <a className='' href="/fruites">Detail</a>
                                     </li>
+
                                 </ul>
                             </div>
 
@@ -90,7 +92,7 @@ const MyProject = () => {
                                         <a href="">Server</a>
                                     </li>
                                     <li>
-                                        <a href="">Detail</a>
+                                        <a href="/independent">Detail</a>
                                     </li>
                                 </ul>
                             </div>

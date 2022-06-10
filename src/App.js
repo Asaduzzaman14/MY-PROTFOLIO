@@ -5,7 +5,19 @@ import Home from './components/Pages/Home';
 import Menufacture from './components/Pages/Menufacture';
 import Navbar from './components/Pages/Navbar';
 
+import AOS from 'aos';
+import { useEffect } from 'react';
+import Fruites from './components/Pages/Fruites';
+import Dentist from './components/Pages/Dentist';
+
 function App() {
+
+  useEffect(() => {
+    AOS.init();
+  }, [])
+
+
+
   return (
     <div >
       <Navbar></Navbar>
@@ -16,6 +28,8 @@ function App() {
         <Route path='/about' element={<About />}></Route>
         <Route path='/ContactMe' element={<Contuctme />}></Route>
         <Route path='/menufacture' element={<Menufacture />}></Route>
+        <Route path='/fruites' element={<Fruites />}></Route>
+        <Route path='/dantal' element={<Dentist />}></Route>
 
 
       </Routes>
