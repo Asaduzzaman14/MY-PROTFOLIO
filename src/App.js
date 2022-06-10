@@ -9,6 +9,7 @@ import AOS from 'aos';
 import { useEffect } from 'react';
 import Fruites from './components/Pages/Fruites';
 import Dentist from './components/Pages/Dentist';
+import Blogs from './components/Pages/Blogs';
 
 function App() {
 
@@ -30,6 +31,7 @@ function App() {
         <Route path='/menufacture' element={<Menufacture />}></Route>
         <Route path='/fruites' element={<Fruites />}></Route>
         <Route path='/dantal' element={<Dentist />}></Route>
+        <Route path='/blogs' element={<Blogs />}></Route>
 
 
       </Routes>

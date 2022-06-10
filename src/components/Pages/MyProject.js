@@ -14,8 +14,8 @@ const MyProject = () => {
 
             <div className=''>
 
+                <h2 className='text-3xl text-center mt-3 font-semibold text-red-600 underline underline-offset-4'>MY PROJECT</h2>
                 <div class='body'>
-                    <h2 className='text-3xl mt-3 font-semibold text-red-600 underline underline-offset-4'>MY PROJECT</h2>
                     <section>
                         <div class="container">
 
@@ -92,7 +92,7 @@ const MyProject = () => {
                                         <a href="">Server</a>
                                     </li>
                                     <li>
-                                        <a href="/independent">Detail</a>
+                                        <a href="/dantal">Detail</a>
                                     </li>
                                 </ul>
                             </div>

@@ -14,8 +14,8 @@ const About = () => {
 
                 <div className='text-white'>
                     <h2 className='text-xl text-center my-2 font-semibold '>ABOUT ME AND MY SKILLS</h2>
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolores rem exercitationem nulla ab asperiores odit voluptatem ad distinctio, laudantium eaque, quod quia in numquam enim. Earum beatae sunt ratione perspiciatis.</p>
-                    <p> dolor sit amet consectetur adipisicing elit. Dolores rem exercitationem nulla ab asperiores odit voluptatem ad distinctio, laudantium eaque, quod quia in numquam enim. Earum beatae sunt ratione perspiciatis.</p>
+                    <p>I'm a React JS developer. I always want to make a website good-looking. Always looking for new technology. I have a lot of interest in UI. That's why I learned to react to js to make a user satisfied.
+                        I started learning to react a few months ago and I love using react on website because React is to be fast, scalable, and simple. It works only on user interfaces in the application.</p>
 
 
                     <a href="_" class="mt-4 px-4 py-2.5 relative rounded group overflow-hidden font-medium bg-blue-200 text-black inline-block justify-center">
